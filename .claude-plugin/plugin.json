@@ -1,0 +1,9 @@
+{
+  "name": "instantly-campaign-report",
+  "version": "1.1.0",
+  "description": "Generate Instantly cold-email campaign performance reports (weekly/monthly), formatted Word docs, and Slack send-off messages from pasted campaign data.",
+  "author": {
+    "name": "Jeffrey Alteza"
+  },
+  "repository": "https://github.com/jeffreythekiln/instantly-report-skill"
+}

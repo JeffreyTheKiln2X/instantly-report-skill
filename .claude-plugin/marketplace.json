@@ -1,0 +1,15 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "instantly-report-skill",
+  "owner": {
+    "name": "Jeffrey Alteza"
+  },
+  "plugins": [
+    {
+      "name": "instantly-campaign-report",
+      "source": "./",
+      "description": "Generate Instantly cold-email campaign performance reports (weekly/monthly), formatted Word docs, and Slack send-off messages from pasted campaign data.",
+      "category": "productivity"
+    }
+  ]
+}
